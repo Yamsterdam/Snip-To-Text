@@ -1,6 +1,6 @@
 # SnipToText
 Turns a screenshot into text that you can paste.
-# RUN AS ADMINISTRATOR OR ELSE THE APP WITH NOT WORK AT ALL
+RUN AS ADMINISTRATOR OR ELSE THE APP WITH NOT WORK AT ALL
 
 # How to install
 Run the install file, other files are source code and do not matter and should not be installed unless you want to look at the code.
